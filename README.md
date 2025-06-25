@@ -1,8 +1,14 @@
 
 # Q_inspired-signal-fingerprinting
 
-## NOTE
-The result image uploaded for Quantum inspired algorithm counted the time taken for QFT to rub excluding the time needed to convert data from array to MPS and back. That needs to be optimised. 
+**Group Name:** Quantum Ninjas  
+**Group Members:**
+- Sai Sudarshan S
+- Azad Prajapat
+- Yaswanth Balaji Edara
+- Varada Dhabe
+- Aryan S Namboodiri
+- Suraj R Gupta
 
 > **Napkin Pitch** (ISIT 2025 Quantum Hackathon)  
 >
@@ -12,6 +18,10 @@ The result image uploaded for Quantum inspired algorithm counted the time taken 
 > - **Unique Value Proposition:** QFT has low entanglement, making it tractable to simulate efficiently. This approach not only speeds up chirp-spectrogram STFTs but can accelerate a wide class of FFT-based algorithms.  
 
 An explorative project comparing **classical FFT–based** and **quantum-inspired QFT–MPO** implementations of the Short-Time Fourier Transform (STFT) for chirp signal spectrograms.
+
+
+## NOTE
+The result image uploaded for Quantum inspired algorithm counted the time taken for QFT to rub excluding the time needed to convert data from array to MPS and back. That needs to be optimised. 
 
 
 ---
