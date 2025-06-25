@@ -1,4 +1,8 @@
+
 # Q_inspired-signal-fingerprinting
+
+## NOTE
+The result image uploaded for Quantum inspired algorithm counted the time taken for QFT to rub excluding the time needed to convert data from array to MPS and back. That needs to be optimised. 
 
 > **Napkin Pitch** (ISIT 2025 Quantum Hackathon)  
 >
