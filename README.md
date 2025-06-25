@@ -3,12 +3,12 @@
 
 **Group Name:** Quantum Ninjas  
 **Group Members:**
-- Sai Sudarshan S
-- Azad Prajapat
 - Yaswanth Balaji Edara
-- Varada Dhabe
 - Aryan S Namboodiri
-- Suraj R Gupta
+- Varada Dhabe
+- Sai Sudarshan S
+
+
 
 > **Napkin Pitch** (ISIT 2025 Quantum Hackathon)  
 >
